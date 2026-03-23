@@ -105,7 +105,7 @@ http://localhost:3000
 
 ---
 
-## 📁 Folder Structure (Suggested)
+## 📁 Folder Structure 
 
 ```
 src/
